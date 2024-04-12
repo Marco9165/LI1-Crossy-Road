@@ -1,21 +1,5 @@
 # Laboratórios de Informática I
 
-## Repositório
-
-Se tiver chave SSH configurada no GitLab pode fazer clone com o seguinte link:
-
-```bash
-$ git clone git@gitlab.com:uminho-di/li1/2223/2022li1g094.git
-$ cd 2022li1g094
-```
-
-Alternativamente, pode fazer clone por https com o seguinte link:
-
-```bash
-$ git clone https://gitlab.com/uminho-di/li1/2223/projetos/2022li1g094.git
-$ cd 2022li1g094
-```
-
 ## Interpretador
 
 Pode abrir o interpretador do Haskell (GHCi) utilizando o cabal ou diretamente.
